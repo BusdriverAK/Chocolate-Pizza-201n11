@@ -1,0 +1,80 @@
+html {
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 960px;
+}
+
+p {
+  display: inline-block;
+}
+
+header {
+  width: 960px;
+  margin-bottom: 1px;
+}
+
+h1 {
+  width: 325px;
+  margin-bottom: 0px;
+}
+
+#delicious {
+  width: 350px;
+  display: inline-block;
+}
+
+#headerP {
+  display: inline-block;
+  width: 45px;
+  padding-right: 0px;
+}
+
+#navList {
+  display: inline-block;
+  width: 225px;
+  float: right;
+  margin-left: 0px;
+  padding-top: 20px;
+}
+
+#navList li {
+  display: inline-block;
+}
+
+#printList {
+  margin-left: 685px;
+  display: inline-block;
+  list-style: none;
+}
+
+.postedOn {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 0px;
+}
+
+#pizzaPic {
+  width: 960px;
+}
+
+#pizzaPic img {
+  width: 960px;
+}
+
+section {
+  width: 960px;
+  text-indent: 40px;
+}
+
+section p {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.pagebreaks {
+  height: 15px;
+  background-image: linear-gradient(45deg, #888 25%, transparent 25%, transparent 50%, #888 50%, #888 75%, transparent 75%, transparent);
+  background-size: 4px 4px;
+  width: 960px;
+}
